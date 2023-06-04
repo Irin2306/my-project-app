@@ -43,6 +43,13 @@
 .today {
   font-size: 20px;
 }
+.link {
+  text-decoration: none;
+}
+.link-position {
+  display: block;
+  margin-left: 300px;
+}
 #fahrenheit:hover {
   cursor: pointer;
 }
