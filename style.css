@@ -1,6 +1,6 @@
-body {
+.container {
   display: block;
-  margin: 20px 20px;
+  margin: 20px 20px auto;
   border: solid blue;
 }
 .city {
